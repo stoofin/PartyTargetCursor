@@ -1,0 +1,6 @@
+## Interface: 7200
+## Title: Party Target Cursor
+## Notes: Shows a cursor over the currently targeted party member's portrait
+## Version: 1.0.0
+
+PartyTargetCursor.xml
